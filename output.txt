@@ -1,0 +1,5 @@
+1600 is a leap year.
+1240 is a leap year.
+1890 is not a leap year.
+2650 is not a leap year.
+2020 is a leap year.

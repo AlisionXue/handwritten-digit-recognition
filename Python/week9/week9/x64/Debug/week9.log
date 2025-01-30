@@ -1,0 +1,4 @@
+﻿  binaryTreeType.cpp
+D:\AAAAA_VS_files\Python\week9\binaryTreeType.cpp(1,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\AAAAA_VS_files\Python\week9\binaryTreeType.cpp(1,9): error C2187: 语法错误: 此处出现意外的“字符串”
+D:\AAAAA_VS_files\Python\week9\binaryTreeType.cpp(1,22): error C2059: 语法错误:“,”

@@ -1,0 +1,92 @@
+﻿  CSC240_Test.cpp
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(77,24): error C2065: “edges”: 未声明的标识符
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(77,31): error C2065: “numVertices”: 未声明的标识符
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(77,2): error C3861: “allPairsShortestPaths”: 找不到标识符
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(80,6): error C2182: “allPairsShortestPaths”: “void” 这一使用无效
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(80,28): error C2065: “VertexType”: 未声明的标识符
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(80,40): error C2065: “edg”: 未声明的标识符
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(80,49): error C2062: 意外的类型“int” 
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(80,55): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(80,55): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(147,15): error C2039: "to_string": 不是 "std" 的成员
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+      D:\vs2022\VC\Tools\MSVC\14.41.34120\include\iomanip(22,1):
+      参见“std”的声明
+  
+D:\Downloads\CSC240_GraphType\CSC240_GraphType\GraphType.h(293,26): error C2039: "to_string": 不是 "std" 的成员
+  (编译源文件“../../../Downloads/CSC240_GraphType/CSC240_GraphType/CSC240_Test.cpp”)
+      D:\vs2022\VC\Tools\MSVC\14.41.34120\include\iomanip(22,1):
+      参见“std”的声明
+  
+  floyd_algorithm_demo.cpp
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(77,24): error C2065: “edges”: 未声明的标识符
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(77,31): error C2065: “numVertices”: 未声明的标识符
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(77,2): error C3861: “allPairsShortestPaths”: 找不到标识符
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,6): error C2182: “allPairsShortestPaths”: “void” 这一使用无效
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,28): error C2065: “VertexType”: 未声明的标识符
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,40): error C2065: “edg”: 未声明的标识符
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,49): error C2062: 意外的类型“int” 
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,55): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,55): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“floyd_algorithm_demo.cpp”)
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(147,15): error C2039: "to_string": 不是 "std" 的成员
+  (编译源文件“floyd_algorithm_demo.cpp”)
+      D:\vs2022\VC\Tools\MSVC\14.41.34120\include\iomanip(22,1):
+      参见“std”的声明
+  
+D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(293,26): error C2039: "to_string": 不是 "std" 的成员
+  (编译源文件“floyd_algorithm_demo.cpp”)
+      D:\vs2022\VC\Tools\MSVC\14.41.34120\include\iomanip(22,1):
+      参见“std”的声明
+  
+D:\AAAAA_VS_files\cs240\LAB10\floyd_algorithm_demo.cpp(6,6): error C2365: “allPairsShortestPaths”: 重定义；以前的定义是“数据变量”
+      D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(80,6):
+      参见“allPairsShortestPaths”的声明
+  
+D:\AAAAA_VS_files\cs240\LAB10\floyd_algorithm_demo.cpp(8,26): error C2039: "getEdges": 不是 "GraphType<std::string>" 的成员
+      D:\AAAAA_VS_files\cs240\LAB10\GraphType.h(44,7):
+      参见“GraphType<std::string>”的声明
+  
+D:\AAAAA_VS_files\cs240\LAB10\floyd_algorithm_demo.cpp(56,5): error C2064: 项不会计算为接受 1 个参数的函数
+  正在生成代码...

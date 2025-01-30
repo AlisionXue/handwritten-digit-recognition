@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\AAAAA_VS_files\.vscode\Project3_mailbox\main.cpp(35,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project3_mailbox.vcxproj -> D:\AAAAA_VS_files\.vscode\Project3_mailbox\x64\Debug\Project3_mailbox.exe

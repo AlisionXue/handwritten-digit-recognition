@@ -1,0 +1,4 @@
+﻿  lab8_priority_queue_simulation.cpp
+D:\AAAAA_VS_files\cs240\LAB8\lab8_priority_queue_simulation.cpp(51,29): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\AAAAA_VS_files\cs240\LAB8\lab8_priority_queue_simulation.cpp(59,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  LAB8.vcxproj -> D:\AAAAA_VS_files\cs240\LAB8\x64\Debug\LAB8.exe

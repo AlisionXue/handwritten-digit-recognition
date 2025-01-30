@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\AAAAA_VS_files\.vscode\Final Lab\main.cpp(10,25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Final Lab.vcxproj -> D:\AAAAA_VS_files\.vscode\Final Lab\x64\Debug\Final Lab.exe

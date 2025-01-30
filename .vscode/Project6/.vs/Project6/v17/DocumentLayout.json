@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAAAA_VS_files\\.vscode\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94304E1D-E18E-4793-8354-780FFFB47665}|Project6.vcxproj|D:\\AAAAA_VS_files\\.vscode\\Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94304E1D-E18E-4793-8354-780FFFB47665}|Project6.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\AAAAA_VS_files\\.vscode\\Project6\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\AAAAA_VS_files\\.vscode\\Project6\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T20:23:37.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

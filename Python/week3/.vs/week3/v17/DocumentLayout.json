@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAAAA_VS_files\\Python\\week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|D:\\AAAAA_VS_files\\Python\\week3\\Lab3Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|solutionrelative:Lab3Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|D:\\AAAAA_VS_files\\Python\\week3\\unsorted.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|solutionrelative:unsorted.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|D:\\AAAAA_VS_files\\Python\\week3\\unsorted.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|solutionrelative:unsorted.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|D:\\AAAAA_VS_files\\Python\\week3\\ItemType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|solutionrelative:ItemType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|D:\\AAAAA_VS_files\\Python\\week3\\ItemType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4B98FD-CD9F-4751-8EEF-4ACA39CB9918}|week3.vcxproj|solutionrelative:ItemType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "unsorted.cpp",
+              "DocumentMoniker": "D:\\AAAAA_VS_files\\Python\\week3\\unsorted.cpp",
+              "RelativeDocumentMoniker": "unsorted.cpp",
+              "ToolTip": "D:\\AAAAA_VS_files\\Python\\week3\\unsorted.cpp",
+              "RelativeToolTip": "unsorted.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAA1wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T16:33:01.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "unsorted.h",
+              "DocumentMoniker": "D:\\AAAAA_VS_files\\Python\\week3\\unsorted.h",
+              "RelativeDocumentMoniker": "unsorted.h",
+              "ToolTip": "D:\\AAAAA_VS_files\\Python\\week3\\unsorted.h",
+              "RelativeToolTip": "unsorted.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T16:32:44.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3Driver.cpp",
+              "DocumentMoniker": "D:\\AAAAA_VS_files\\Python\\week3\\Lab3Driver.cpp",
+              "RelativeDocumentMoniker": "Lab3Driver.cpp",
+              "ToolTip": "D:\\AAAAA_VS_files\\Python\\week3\\Lab3Driver.cpp",
+              "RelativeToolTip": "Lab3Driver.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T16:33:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemType.h",
+              "DocumentMoniker": "D:\\AAAAA_VS_files\\Python\\week3\\ItemType.h",
+              "RelativeDocumentMoniker": "ItemType.h",
+              "ToolTip": "D:\\AAAAA_VS_files\\Python\\week3\\ItemType.h",
+              "RelativeToolTip": "ItemType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T16:33:55.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemType.cpp",
+              "DocumentMoniker": "D:\\AAAAA_VS_files\\Python\\week3\\ItemType.cpp",
+              "RelativeDocumentMoniker": "ItemType.cpp",
+              "ToolTip": "D:\\AAAAA_VS_files\\Python\\week3\\ItemType.cpp",
+              "RelativeToolTip": "ItemType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T16:34:32.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
