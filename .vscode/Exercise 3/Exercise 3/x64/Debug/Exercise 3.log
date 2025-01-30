@@ -1,3 +1,0 @@
-﻿  Exercise.cpp
-D:\AAAAA_VS_files\.vscode\Exercise 3\Exercise.cpp(52,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Exercise 3.vcxproj -> D:\AAAAA_VS_files\.vscode\Exercise 3\x64\Debug\Exercise 3.exe

@@ -1,3 +1,0 @@
-﻿  源.cpp
-D:\AAAAA_VS_files\.vscode\exam1\Project1\源.cpp(18,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Project1.vcxproj -> D:\AAAAA_VS_files\.vscode\exam1\Project1\x64\Debug\Project1.exe
